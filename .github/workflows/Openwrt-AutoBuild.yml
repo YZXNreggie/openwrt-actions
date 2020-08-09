@@ -15,9 +15,7 @@ on:
 
 env:
   RUN_VALIDATION: true
-  SSH_ACTIONS: true
-
-
+  
 jobs:
   build:
     runs-on:  ubuntu-18.04
